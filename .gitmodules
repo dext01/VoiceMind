@@ -1,0 +1,6 @@
+[submodule "VoskNote/app/src/main/cpp/llama.cpp"]
+	path = VoskNote/app/src/main/cpp/llama.cpp
+	url = https://github.com/ggerganov/llama.cpp.git
+[submodule "VoskNote/app/src/main/cpp/whisper.cpp"]
+	path = VoskNote/app/src/main/cpp/whisper.cpp
+	url = https://github.com/ggerganov/whisper.cpp

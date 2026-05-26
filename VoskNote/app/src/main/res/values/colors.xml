@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Warm dark backgrounds -->
+    <color name="background">#100F0C</color>
+    <color name="surface">#1C1A15</color>
+    <color name="surfaceElevated">#282520</color>
+    <color name="surfaceMuted">#141210</color>
+
+    <!-- Signature accent: warm gold -->
+    <color name="primary">#F0C040</color>
+    <color name="primaryDark">#C9A035</color>
+    <color name="primarySoft">#2C2510</color>
+    <color name="accent">#F0C040</color>
+    <color name="accentRed">#E05555</color>
+
+    <!-- Warm whites -->
+    <color name="textPrimary">#F5F1E6</color>
+    <color name="textSecondary">#A8A090</color>
+    <color name="textMuted">#635E52</color>
+    <color name="divider">#252320</color>
+
+    <!-- Status -->
+    <color name="statusOk">#5CB87A</color>
+    <color name="statusWarn">#F0C040</color>
+    <color name="statusErr">#E05555</color>
+</resources>
